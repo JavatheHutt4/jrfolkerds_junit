@@ -190,7 +190,7 @@ public class NewTelephoneCompanyTest_WBT {
 	public void testGetDuration() {
 		int expResult = 0;
         int result = ntc.getDuration();
-        assertEquals("Duration is" + expResult,expResult, result);
+        assertEquals("Duration is " + expResult,expResult, result);
 	}
 
 	@Test

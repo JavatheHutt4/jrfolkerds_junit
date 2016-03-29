@@ -1,6 +1,7 @@
 package edu.csbsju.ntc;
 
 public class NewTelephoneCompany {
+	
 	private int startTime;
 	private int duration;
 	private static final double FED_TAX = 0.04;

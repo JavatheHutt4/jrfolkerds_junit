@@ -60,7 +60,7 @@ public class NewTelephoneCompanyTest_BBT {
 		discounted st and discounted length		2359			65				1149.20 
 												1959			61				1078.48 
 		regular st and regular length			1000			40				1664.00 
-												800				1				41.60
+												800				1				41.6
 												801				59				2454.40
 												1759			60				2496.00
 		regular st and invalid length			1000			0				invalid length
